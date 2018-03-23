@@ -2,7 +2,7 @@
 
 void main() 
    {
-     int a = 7, b = 3, c = 4;
+     int a = 10, b = 3, c = 4;
    
      a *= c;
    
